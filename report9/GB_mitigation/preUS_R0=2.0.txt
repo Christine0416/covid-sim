@@ -1,3 +1,15 @@
+[Update timestep]
+0.25
+
+[Equilibriation time]
+0
+
+[Sampling timestep]
+1
+
+[Sampling time]
+1200
+
 [Number of seed locations]
 1
 
